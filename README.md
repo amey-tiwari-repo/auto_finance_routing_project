@@ -1,7 +1,7 @@
 LendingClub Loan Data (https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 L&T Vehicle Loan Default Prediction (https://www.kaggle.com/datasets/mamtadhaker/lt-vehicle-loan-default-prediction)
 
-
+"
 project-root/
 │
 ├── data/
@@ -26,8 +26,9 @@ project-root/
 ├── notebooks/                 # Jupyter notebooks
 ├── src/                       # Core pipeline code
 └── README.md
+"
 
-
+"
 data/
 ├── original/
 │   ├── lending-club/
@@ -40,4 +41,4 @@ data/
 │   │
 │   └── processed/
 
-
+"
